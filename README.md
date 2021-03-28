@@ -7,3 +7,6 @@ A py3 code implementation for a 2-class Naive Bayes algorithm with an apriori de
 
 ## Output 
 ![OP2](https://github.com/ranjiGT/NaiveBayesClassifier/blob/main/op2.png)
+
+## Bonus
+[![Watch the video](https://img.youtube.com/vi/AkPSgAh3q4g/maxresdefault.jpg)](https://youtu.be/AkPSgAh3q4g)
