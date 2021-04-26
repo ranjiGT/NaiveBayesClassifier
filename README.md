@@ -1,4 +1,4 @@
-# `NaiveBayesClassifier`
+# `NaiveBayesClassifier` ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 A py3 code implementation for a 2-class Naive Bayes algorithm with an apriori decision rule using **multinomial** estimation for classes and a gaussian estimation for the attributes.
 
 ## Math path
