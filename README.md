@@ -11,3 +11,7 @@ Run your script as: `python3 NaiveBayes.py --data Example.csv`
 
 ## Bonus
 [![Watch the video](https://img.youtube.com/vi/AkPSgAh3q4g/maxresdefault.jpg)](https://youtu.be/AkPSgAh3q4g)
+
+## Run Dockerfile
+
+`docker run -it python-nb-minidocker:1.1 python3 NaiveBayes.py --data Example.csv`
