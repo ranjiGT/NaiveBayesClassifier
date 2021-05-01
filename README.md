@@ -4,6 +4,7 @@ A py3 code implementation for a 2-class Naive Bayes algorithm with an apriori de
 ## Math path
 ![Formula](https://github.com/ranjiGT/NaiveBayesClassifier/blob/main/mathpath2.png)
 
+Run your script as: `python3 NaiveBayes.py --data Example.csv`
 
 ## Output 
 ![OP2](https://github.com/ranjiGT/NaiveBayesClassifier/blob/main/op2.png)
